@@ -10,6 +10,8 @@ function App() {
   return (
     <div>
        <Sample />
+       <Sample />
+       <Sample />
     </div>
   )
 }

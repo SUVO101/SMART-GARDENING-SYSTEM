@@ -11,7 +11,8 @@ function App() {
     <div>
        <Sample />
        <Sample />
-       <Sample />
+      
+
     </div>
   )
 }
